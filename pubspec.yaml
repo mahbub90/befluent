@@ -58,7 +58,12 @@ flutter:
   fonts:
     - family: North
       fonts:
-        - asset: assets\fonts\north.otf
+        - asset: assets/fonts/north.otf
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-Light.otf
+        - asset: assets/fonts/Gilroy-ExtraBold.otf
+          weight: 700
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
